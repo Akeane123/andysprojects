@@ -1,0 +1,5 @@
+# Dont track the following files
+*.csv
+*.xls
+*.pickle
+
